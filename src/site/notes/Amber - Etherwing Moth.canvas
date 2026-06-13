@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/amber-etherwing-moth.canvas/","contentClasses":"canvas-page","created":"2026-06-12T14:52:49.796-07:00","updated":"2026-06-13T07:47:00.678-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/amber-etherwing-moth.canvas/","contentClasses":"canvas-page","created":"2026-06-12T14:52:49.796-07:00","updated":"2026-06-13T07:50:12.897-07:00","dg-note-properties":{}}
 ---
 
 <div id="Amber_-_Etherwing_Mothcanvas" class="canvas-wrapper hide">
@@ -43,10 +43,10 @@
 		<div class="canvas-node canvas-node-group has-color" data-node-id="2fb6e8bcb79688e8" style="transform: translate(580px, 1620px); width: 1600px; height: 760px; --canvas-color: #ffff00; ">
 	
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="c2f01185063af274" style="transform: translate(-180px, 1500px); width: 720px; height: 880px; --canvas-color: #0000ff; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="69a7f08a3f59558e" style="transform: translate(600px, 580px); width: 1480px; height: 740px; --canvas-color: #ff0000; ">
 	
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="69a7f08a3f59558e" style="transform: translate(600px, 580px); width: 1480px; height: 740px; --canvas-color: #ff0000; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="c2f01185063af274" style="transform: translate(-180px, 1500px); width: 720px; height: 880px; --canvas-color: #0000ff; ">
 	
 </div>
 <div class="canvas-node canvas-node-text " data-node-id="b39c4eb517c0e9a6" style="transform: translate(700px, 960px); width: 700px; height: 320px; ">
@@ -63,59 +63,10 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="ad7d5f3c8cfc8798" style="transform: translate(880px, 620px); width: 240px; height: 240px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/-%20Images/Nihilita.png" alt="Nihilita.png" loading="lazy" />
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="657fcdbc5e22c559" style="transform: translate(1620px, 1440px); width: 200px; height: 40px; --canvas-color: #ff0000;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
-			<div class="canvas-node-text-content" data-markdown="VGVtcGxlIG9mID09U3BhY2U9PQ=="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="ca509a6055be71c4" style="transform: translate(1560px, 1680px); width: 240px; height: 240px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/-%20Images/Memory%20of%20Dust.png" alt="Memory of Dust.png" loading="lazy" />
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text " data-node-id="e1876e7b08db2a6b" style="transform: translate(1800px, 1680px); width: 280px; height: 240px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="PlshY2l0ZV0gPT1NZW1vcnk9PSBvZiBEdXN0Cgo+QSA9PXN0b25lPT0gZHVtYmJlbGwgY29udGFpbmluZyBkaXN0YW50ID09bWVtb3JpZXM9PS4gSXRzIGVuZGxlc3MgdHJhbnNmb3JtYXRpb25zIHJldmVhbCB0aGUgcG93ZXIgd2l0aGluLg=="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="3fa1c713f69cd1ca" style="transform: translate(1560px, 1980px); width: 240px; height: 240px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/-%20Images/Stone%20of%20Remembrance.png" alt="Stone of Remembrance.png" loading="lazy" />
-		</div>
-	</div>
-</div>
 <div class="canvas-node canvas-node-text " data-node-id="c2a5c20ef3188017" style="transform: translate(700px, 860px); width: 360px; height: 60px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="TmloaWxpdGEsIE1lbGFudGEsIGFuZCBEb21haW4gS2VlcGVycyBhcmUgPT1HZW89PSBlbmVtaWVzLg=="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text " data-node-id="197ebf6691dce560" style="transform: translate(960px, 1340px); width: 620px; height: 40px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
-			<div class="canvas-node-text-content" data-markdown="PioqWmhvbmdsaSoqOiBPc21hbnRodXMgd2luZSB0YXN0ZXMgdGhlIHNhbWUgYXMgSSA9PXJlbWVtYmVyPT0uLi4="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text " data-node-id="fdc52faed8f8a35b" style="transform: translate(1800px, 1980px); width: 340px; height: 240px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="PlshY2l0ZV0gPT1TdG9uZT09IG9mID09UmVtZW1icmFuY2U9PQoKPllvdSBjYW4gZmVlbCB0aGUgdHVyYnVsZW50IHRob3VnaHRzIHJhY2luZyByZWxlbnRsZXNzbHkgd2l0aGluIHdoZW4geW91IGhvbGQgaXQgaW4geW91ciBoYW5kLiBTb21ld2hlcmUgaW4gdGhpcyB3b3JsZCBhcmUgYnVyaWVkIHRoZSA9PW1lbW9yaWVzPT0gb2YgYW4gYW5jaWVudCB3YXIu"></div>
 		</div>
 	</div>
 </div>
@@ -154,6 +105,20 @@
 		</div>
 	</div>
 </div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="ad7d5f3c8cfc8798" style="transform: translate(880px, 620px); width: 240px; height: 240px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/-%20Images/Nihilita.png" alt="Nihilita.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="197ebf6691dce560" style="transform: translate(960px, 1340px); width: 620px; height: 40px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="PioqWmhvbmdsaSoqOiBPc21hbnRodXMgd2luZSB0YXN0ZXMgdGhlIHNhbWUgYXMgSSA9PXJlbWVtYmVyPT0uLi4="></div>
+		</div>
+	</div>
+</div>
 <div class="canvas-node canvas-node-file canvas-node-image " data-node-id="a241682108a2b3d1" style="transform: translate(800px, 20px); width: 460px; height: 486px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
@@ -172,13 +137,6 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/-%20Images/Etherwing%20Moth.png" alt="Etherwing Moth.png" loading="lazy" />
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="d074685d8887f44e" style="transform: translate(800px, -640px); width: 940px; height: 627px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/-%20Images/Amber%20-%20Etherwing%20Moth%20Comparison.png" alt="Amber - Etherwing Moth Comparison.png" loading="lazy" />
 		</div>
 	</div>
 </div>
@@ -207,6 +165,48 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
 			<div class="canvas-node-text-content" data-markdown="PT1HZW89PSBpcyBhc3NvY2lhdGVkIHdpdGggIj09bWVtb3J5PT0iICI9PW1pbmQ9PSIsIGFuZCAiPT1zcGFjZT09Ii4="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="657fcdbc5e22c559" style="transform: translate(1620px, 1440px); width: 200px; height: 40px; --canvas-color: #ff0000;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="VGVtcGxlIG9mID09U3BhY2U9PQ=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="ca509a6055be71c4" style="transform: translate(1560px, 1680px); width: 240px; height: 240px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/-%20Images/Memory%20of%20Dust.png" alt="Memory of Dust.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="e1876e7b08db2a6b" style="transform: translate(1800px, 1680px); width: 280px; height: 240px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="PlshY2l0ZV0gPT1NZW1vcnk9PSBvZiBEdXN0Cgo+QSA9PXN0b25lPT0gZHVtYmJlbGwgY29udGFpbmluZyBkaXN0YW50ID09bWVtb3JpZXM9PS4gSXRzIGVuZGxlc3MgdHJhbnNmb3JtYXRpb25zIHJldmVhbCB0aGUgcG93ZXIgd2l0aGluLg=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="3fa1c713f69cd1ca" style="transform: translate(1560px, 1980px); width: 240px; height: 240px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/-%20Images/Stone%20of%20Remembrance.png" alt="Stone of Remembrance.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="fdc52faed8f8a35b" style="transform: translate(1800px, 1980px); width: 340px; height: 240px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="PlshY2l0ZV0gPT1TdG9uZT09IG9mID09UmVtZW1icmFuY2U9PQoKPllvdSBjYW4gZmVlbCB0aGUgdHVyYnVsZW50IHRob3VnaHRzIHJhY2luZyByZWxlbnRsZXNzbHkgd2l0aGluIHdoZW4geW91IGhvbGQgaXQgaW4geW91ciBoYW5kLiBTb21ld2hlcmUgaW4gdGhpcyB3b3JsZCBhcmUgYnVyaWVkIHRoZSA9PW1lbW9yaWVzPT0gb2YgYW4gYW5jaWVudCB3YXIu"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="d074685d8887f44e" style="transform: translate(800px, -640px); width: 940px; height: 627px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/-%20Images/Amber%20-%20Etherwing%20Moth%20Comparison.png" alt="Amber - Etherwing Moth Comparison.png" loading="lazy" />
 		</div>
 	</div>
 </div>
