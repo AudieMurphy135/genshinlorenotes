@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mentions/windy-and-rainy-night/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/mentions/windy-and-rainy-night/","created":"2026-04-15T05:15:22.387-07:00","updated":"2026-06-09T04:51:38.209-07:00","dg-note-properties":{}}
 ---
 
 May be related to Ajax and/or the Belyi Tsar.

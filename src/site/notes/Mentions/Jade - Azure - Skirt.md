@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mentions/jade-azure-skirt/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/mentions/jade-azure-skirt/","created":"2026-04-15T05:15:23.230-07:00","updated":"2026-06-09T04:51:46.163-07:00","dg-note-properties":{}}
 ---
 
 ___
